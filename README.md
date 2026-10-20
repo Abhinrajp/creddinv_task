@@ -40,6 +40,3 @@ lib/
 
 ## Demo video checklist
 Record a screen capture showing: invalid/valid login, successful login, product listing, add two products, open cart, increase/decrease quantity, remove an item, empty-cart state, and return to catalog.
-
-## GitHub submission
-Create a repository, commit this project, then include the repository URL and your recorded demo video link in your assessment submission.
